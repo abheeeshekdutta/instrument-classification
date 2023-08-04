@@ -1,8 +1,8 @@
-# Instrument Classification using deep learning
+# 🎸🥁🎺 Instrument Classification using deep learning
 
 ## Project Objective
 
-The objective of this project is to classify musical instruments from audio data using deep learning. 
+The objective of this project is to classify musical instruments from audio data using deep learning techniques such as convolutional neural networks(CNN) and recurrent neural networks (RNN).
 
 Additionally, this project would also try to explain the existing solution for the problem statement, try to optimize the existing solution and provide a comparison between the optimized and existing solutions.
 
